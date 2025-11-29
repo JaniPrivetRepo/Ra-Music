@@ -110,8 +110,8 @@ async def in_help():
     answers = [
         InlineQueryResultArticle(
             title="💒 ᴡʜɪsᴘᴇʀ 💒",
-            description=f"@Jani_Music_RoBot [USERNAME / ID] [ YOUR TEXT]",
-            input_message_content=InputTextMessageContent(f"**📍ᴜsᴀɢᴇ:**\n\n@Jani_music_Robot (Target Username or ID) (Your Message).\n\n**Example:**\n@Jani_music_Robot @Jani_RP I love You 😘"),
+            description=f"@HemaMusicBot [USERNAME / ID] [ YOUR TEXT]",
+            input_message_content=InputTextMessageContent(f"**📍ᴜsᴀɢᴇ:**\n\n@HemaMusicBot (Target Username or ID) (Your Message).\n\n**Example:**\n@HemaMusicBot @Vip_Jani_OP I love You 😘"),
             thumb_url="https://files.catbox.moe/ynsu0c.jpg",
             reply_markup=switch_btn
         )
