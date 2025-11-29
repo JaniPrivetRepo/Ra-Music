@@ -9,9 +9,9 @@ API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
 
 BOT_TOKEN = getenv("BOT_TOKEN")
-OWNER_USERNAME = getenv("OWNER_USERNAME","Vip_Jani_Owner")
-BOT_USERNAME = getenv("BOT_USERNAME" , "Jani_Music_Robot")
-BOT_NAME = getenv("BOT_NAME" , "˹Jani Music˼ ♪ [ ᴛᴘʙ ]™")
+OWNER_USERNAME = getenv("OWNER_USERNAME","RamHackerTG")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Hema")
+BOT_NAME = getenv("BOT_NAME" , "˹Hema˼ ♪ [ ᴛᴘʙ ]™")
 ASSUSERNAME = getenv("ASSUSERNAME" , "ALPHA")
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
@@ -24,11 +24,11 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", 'NxGBNexGenBots901703') # youtube song api ke
+API_KEY = getenv("API_KEY", 'NxGBNexGenBotsc5b366') # youtube song api ke
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Jani_RP")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+MVO_zBbxypIxNWM1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Vip_Jani_OP")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Fgru4laNvJpkMGI1")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
