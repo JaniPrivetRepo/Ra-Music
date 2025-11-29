@@ -73,7 +73,7 @@ INFO_TEXT = """
 ❍ ᴅᴄ ɪᴅ ▷ {}
 ❍ ʙɪᴏ ▷ {}
 
-❖ ᴍᴀᴅᴇ ʙʏ  ➛ [Jαɳι Bσƚʂ](https://t.me/Jani_RP)
+❖ ᴍᴀᴅᴇ ʙʏ  ➛ [Hema Music](https://t.me/Vip_Jani_OP)
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
 """
