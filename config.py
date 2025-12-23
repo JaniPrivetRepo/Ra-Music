@@ -23,8 +23,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/JaniPrivetRepo/Ra-Mu
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
-API_KEY = getenv("API_KEY", 'NxGBNexGenBotsc5b366') # youtube song api ke
+API_URL = getenv("API_URL", 'http://riyabots.site') #youtube song url
+API_KEY = getenv("API_KEY", 'StrangerApic0b57ec') # youtube song api ke
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Vip_Jani_OP")
