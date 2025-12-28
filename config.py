@@ -23,7 +23,6 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/JaniPrivetRepo/Ra-Mu
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-VIDEO_API_URL = "https://api.example.com/video"   # jo bhi tumhara API ho wo daal do
 API_URL = getenv("API_URL", 'https://console.nexgenbots.xyz') #youtube song url
 API_KEY = getenv("API_KEY", 'NxGBNexGenBotsc5b366') # youtube song api ke
 
