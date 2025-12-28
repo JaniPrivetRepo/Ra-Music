@@ -30,7 +30,7 @@ import logging
 import aiohttp
 from SONALI_MUSIC import LOGGER
 from urllib.parse import urlparse
-from config import API_BASE_URL, API_KEY
+from config import API_URL, API_KEY
 
 
 
