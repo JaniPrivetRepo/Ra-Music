@@ -55,6 +55,3 @@ opencv-python
 googlesearch-python
 sympy
 bing_image_downloader
-git+https://github.com/KurimuzonAkuma/pyrogram
-git+https://github.com/yt-dlp/yt-dlp
-
