@@ -24,6 +24,7 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 API_URL = getenv("API_URL", 'https://console.nexgenbots.xyz') #youtube song url
+VIDEO_API_URL = "https://www.googleapis.com/youtube/v3"
 API_KEY = getenv("API_KEY", '30DxNexGenBotsdc9b8a') # youtube song api ke
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
