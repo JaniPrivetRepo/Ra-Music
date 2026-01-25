@@ -111,7 +111,7 @@ async def in_help():
         InlineQueryResultArticle(
             title="💒 ᴡʜɪsᴘᴇʀ 💒",
             description=f"@HemaMusicBot [USERNAME / ID] [ YOUR TEXT]",
-            input_message_content=InputTextMessageContent(f"**📍ᴜsᴀɢᴇ:**\n\n@HemaMusicBot (Target Username or ID) (Your Message).\n\n**Example:**\n@HemaMusicBot @Vip_Jani_OP I love You 😘"),
+            input_message_content=InputTextMessageContent(f"**📍ᴜsᴀɢᴇ:**\n\n@SizzuMusicBot (Target Username or ID) (Your Message).\n\n**Example:**\n@SizzuMusicBot @Vip_Jani I love You 😘"),
             thumb_url="https://files.catbox.moe/ynsu0c.jpg",
             reply_markup=switch_btn
         )
