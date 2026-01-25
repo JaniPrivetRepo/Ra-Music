@@ -85,8 +85,8 @@ async def get_thumb(videoid):
         bold_font = ImageFont.truetype("SONALI_MUSIC/assets/font.ttf", 33)
 
         # Top-right "text"
-        text_size = draw.textsize("HEMA MUSIC  ", font=font)
-        draw.text((1280 - text_size[0] - 10, 10), "HEMA MUSIC  ", fill="yellow", font=font)
+        text_size = draw.textsize("Sizzu Bots ", font=font)
+        draw.text((1280 - text_size[0] - 10, 10), "Sizzu Bots ", fill="yellow", font=font)
 
         # Channel name + Views 
         draw.text(
