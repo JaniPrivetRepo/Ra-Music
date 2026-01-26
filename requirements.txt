@@ -28,7 +28,10 @@ search_engine_parser
 py-tgcalls==0.9.7
 pykeyboard
 pyshorteners
-#pyrogram==2.0.106
+pyrogram
+pytgcalls
+tgcrypto
+numpy
 pyrofork
 py-yt-search
 python-dotenv
